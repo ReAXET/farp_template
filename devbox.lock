@@ -1,0 +1,158 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "alembic@latest": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#alembic",
+      "source": "devbox-search",
+      "version": "1.8.6",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/wxw1p6ymgbx3fkmva2yl0wd64rbj3vkg-alembic-1.8.6-bin"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/2r60b33fsvfrib8djg8j8ql23c4k06k3-alembic-1.8.6-bin"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/9ngp6m0sjr2ax0am10zb1nri4kbamq2y-alembic-1.8.6-bin"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/cy8xfs4h6rhd3xyjdmclzj69kpkyyk2p-alembic-1.8.6-bin"
+        }
+      }
+    },
+    "nodejs@latest": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#nodejs_21",
+      "source": "devbox-search",
+      "version": "21.1.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/b8yb6gs0dhi0zlxcg5dkp0d2xrn80nhh-nodejs-21.1.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/c20ngwkh3xzpzvmxkffccaxygyiqw3n2-nodejs-21.1.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/6wyanl2ba86pc2jb6nvg212xpq7j7kij-nodejs-21.1.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/wl7yqxb1mhghpp6b8icykcm5wysfqarz-nodejs-21.1.0"
+        }
+      }
+    },
+    "pgadmin@latest": {
+      "last_modified": "2023-02-24T09:01:09Z",
+      "resolved": "github:NixOS/nixpkgs/7d0ed7f2e5aea07ab22ccb338d27fbe347ed2f11#pgadmin",
+      "source": "devbox-search",
+      "version": "6.19",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/b6vny5syi2b1361yb68v22szx512myyb-pgadmin-6.19"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/82x86046cb9mqlhz7yk6im9r21ixai9n-pgadmin-6.19"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/4sh17cyv49jkhkvlarkbc0y1fs3d1699-pgadmin-6.19"
+        }
+      }
+    },
+    "postgresql@15": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#postgresql",
+      "source": "devbox-search",
+      "version": "15.4",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/c5sg23x5rhwp62q3rr655j1zhx8s3ncp-postgresql-15.4"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/205sa0v56qn8zg2h410fabgvmmxscva7-postgresql-15.4"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/78h0h3gbnvk4p64ajyik7kgxzkapxwvh-postgresql-15.4"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/ahb6l0carh3yc6a5d4zdxsxf69sdhnhh-postgresql-15.4"
+        }
+      }
+    },
+    "python311@latest": {
+      "last_modified": "2023-09-27T18:02:17Z",
+      "plugin_version": "0.0.1",
+      "resolved": "github:NixOS/nixpkgs/517501bcf14ae6ec47efd6a17dda0ca8e6d866f9#python311",
+      "source": "devbox-search",
+      "version": "3.11.4",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/rycxjkclx801wrhwrgllak0302xzjdvx-python3-3.11.4"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/h4xi1djsmhk7bjdipz58xkfnf8lc9mpm-python3-3.11.4"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/yqs2zxkxn61xzimdaz1pbgawk2lnm0d8-python3-3.11.4"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/3k7is7nc2xbav8a48vx7arad522d8czx-python3-3.11.4"
+        }
+      }
+    },
+    "python311Packages.pip@latest": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "plugin_version": "0.0.1",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#python311Packages.pip",
+      "source": "devbox-search",
+      "version": "23.2.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/gwd2i8fcxvvws3pnj9sdzwvzy49kkc9q-python3.11-pip-23.2.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/gr88sa1xim1wz558yyxbwxm7771v1y0w-python3.11-pip-23.2.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/26awhk5dpfzzziiaqckmj5qx3aqzqmzp-python3.11-pip-23.2.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/z41lyyssxy1gza6ngn44q036k213c9gm-python3.11-pip-23.2.1"
+        }
+      }
+    },
+    "rPackages.npm@latest": {
+      "last_modified": "2022-11-04T08:04:30Z",
+      "resolved": "github:NixOS/nixpkgs/01e9ba9666a3fb137621f35d012710bb5af44860#rPackages.npm",
+      "source": "devbox-search",
+      "version": "1.0.0"
+    },
+    "rPackages.reactR@latest": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#rPackages.reactR",
+      "source": "devbox-search",
+      "version": "0.4.4"
+    },
+    "redis@latest": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#redis",
+      "source": "devbox-search",
+      "version": "7.2.2",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/gkzd292kip7s4h4jc3s1za1bq3f0v8fg-redis-7.2.2"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/gzyrwxyq4lz32sgp09hba4zxh09lhbvc-redis-7.2.2"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/vk3z3x2sp7bddi4wphsgy6wanjpaapbl-redis-7.2.2"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/6vcwqdjbdhgy74zhc3zz72yk0d4mxnbc-redis-7.2.2"
+        }
+      }
+    }
+  }
+}

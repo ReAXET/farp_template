@@ -1,0 +1,23 @@
+{
+  "packages": [
+    "python311@latest",
+    "python311Packages.pip@latest",
+    "postgresql@15",
+    "redis@latest",
+    "pgadmin@latest",
+    "alembic@latest",
+    "nodejs@latest",
+    "rPackages.reactR@latest",
+    "rPackages.npm@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      "echo 'Welcome to devbox!' > /dev/null"
+    ],
+    "scripts": {
+      "test": [
+        "echo \"Error: no test specified\" && exit 1"
+      ]
+    }
+  }
+}
